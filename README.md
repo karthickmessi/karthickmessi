@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Karthick Raja 👋
 
-<!--
-**karthickmessi/karthickmessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Enthusiast | eJPT Certified | Ethical Hacking Learner
 
-Here are some ideas to get you started:
+I recently completed my eJPT (Junior Penetration Tester) certification and I am passionate about cybersecurity, ethical hacking, vulnerability assessment, and network security. I enjoy building security tools and learning real-world offensive and defensive security concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Network Security
+* Vulnerability Assessment
+* OWASP Basics
+* Linux
+* Git & GitHub
+* Socket Programming
+* Basic Python Scripting
+
+## Certifications
+
+* eJPT (Junior Penetration Tester)
+
+## Projects
+
+* NetVulnScanner
+* WebAppHunter
+* Smart Irrigation System using IoT
+* Anti-Phishing Framework using Visual Cryptography
+
+## Goals
+
+* Become a SOC Analyst / VAPT Engineer
+* Build advanced cybersecurity tools
+* Contribute to security research and projects
+
+## Connect With Me
+
+* GitHub: https://github.com/karthickmessi
+* LinkedIn: https://linkedin.com/in/KARTHICKRAJA2005S
